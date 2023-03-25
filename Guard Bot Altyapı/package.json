@@ -1,0 +1,11 @@
+{
+  "name": "guardbot",
+  "version": "1.0.0",
+  "description": "Rozquelin Tarafından Yapılmıştır Satılması Yasaktır.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Rozquelin",
+  "license": "ISC"
+}
