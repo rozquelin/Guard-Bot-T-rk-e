@@ -4,7 +4,7 @@ Ban/Kick/Rol/ Kanal Korumalı Guard Bot
 
 Kurulum;
 
-Aşama 1: Terminal'e "npm i" yazın ve modülleri kurun
+Aşama 1: Terminal'e "npm i" yazın ve modülleri kurun\n
 Aşama 2: config.js'de "Token" Kısmını Doldurun Ve Kaydedin (Ctrl + s)
 Aşama 3: "Başlat.bat" 'e Çift Tıklayın Ve Çalıştırın.
 
